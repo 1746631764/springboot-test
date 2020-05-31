@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-json:2.3.1.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.3.1.BUILD-SNAPSHOT/spring-boot-starter-json-2.3.1.BUILD-20200518.162903-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.3.1.BUILD-SNAPSHOT/spring-boot-starter-json-2.3.1.BUILD-20200518.162903-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.3.1.BUILD-SNAPSHOT/spring-boot-starter-json-2.3.1.BUILD-20200518.162903-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
